@@ -1,0 +1,25 @@
+.one-book {
+    width: 300px;
+    height: 560px;
+    text-align: center;
+    background-color: #878c6b;
+    box-shadow: 0px 0px 10px black;
+    padding: 15px;
+    transition: all 0.3s linear;
+}
+
+.one-book:hover {
+    transform: scale(1.04);
+}
+
+.book-price {
+    font-size: 20px;
+}
+
+.one-book-description {
+    height: 90px;
+}
+
+.one-book h2 {
+    font-size: 26px;
+}

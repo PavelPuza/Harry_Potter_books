@@ -1,0 +1,15 @@
+body {
+    background-color: #cbd3a0;
+    color: rgb(255, 255, 255);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.all-books {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
